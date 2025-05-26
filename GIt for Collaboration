@@ -1,0 +1,7 @@
+- git clone cloning repository URL
+- cd repositoryname
+- git checkout -b bug-fix
+- echo "Bug fixed">>bug.txt
+- git add .
+- git commit -m "Fixed the bug"
+- git push origin bug-fix
