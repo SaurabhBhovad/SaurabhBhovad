@@ -1,0 +1,48 @@
+Node1:-
+- apk update
+- apk add --no-cache ansible openssh
+- echo "[web]"> hosts
+- echo "192.168.0.21 ansible_user=root" >> hosts
+- ansible -i hosts web -m ping
+- ansible -i hosts web -m shell -a "uptime"
+- ansible -i hosts web -m shell -a "df -h"
+- ansible -i hosts web -m file -a "path=/tmp/mca.txt state=touch"
+- create a file named mca_demo.yml
+[code:-
+- name: MCA Ansible Playbook Demo
+  hosts: web
+  tasks:
+    - name: Create a welcome file
+      copy:
+        content: "Welcome MCA Students to Ansible Lab!\n"
+        dest: /tmp/welcome.txt
+
+    - name: Ensure a directory exists
+      file:
+        path: /opt/mca-lab
+        state: directory
+
+    - name: Install tree (optional)
+      package:
+        name: tree
+        state: present
+]
+
+- ansible-playbook -i hosts mca_demo.yml
+- cat /tmp/welcome.txt 
+ ls -l /opt/mca-lab
+ tree /opt
+
+
+
+Node2:-
+- $ apk update 
+- $ echo "[web]" > hosts 
+- $ ansible -i hosts web -m ping 
+- $ ansible -i hosts web -m shell -a "uptime" 
+- $ ansible -i hosts web -m shell -a "df -h" 
+- $ ansible -i hosts web -m file -a "path=/tmp/mca.txt state=touch" 
+- $ touch mca_demo.yml 
+- $ vi mca_demo.yml 
+- $ ansible-playbook -i hosts mca_demo.yml 
+- 
