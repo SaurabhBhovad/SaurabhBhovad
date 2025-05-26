@@ -1,0 +1,10 @@
+- docker --v
+- docker pull nginx (Pull a Docker image from Docker)
+- docker images (List all Docker)
+- docker run -d -p 8080:80 --name mynginx nginx (Run a container from an image )
+- docker ps 
+- docker cp index.html mynginx:/usr/share/nginx/html/
+- docker volume create mydata
+- docker volume ls
+- docker rm -f (Remove a container )
+- 
