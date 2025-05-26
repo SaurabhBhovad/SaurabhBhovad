@@ -1,0 +1,16 @@
+Basic git cmd:-
+- git --version
+- mkdir 
+- cd
+- git init 
+- git config --global user.name " "
+- git config --global user.email" "
+- mkdir git-demo
+- cd
+- git init 
+- echo "Hello user"> file.txt
+- git add file.txt
+- git commit-m "Initial Commit"
+- git status
+- git log
+
