@@ -1,0 +1,15 @@
+create html file
+create Docker file [z
+Code:
+FROM nginx:latest
+Copy html file path]
+
+- nano Dockerfile
+- docker build -t my-docker-webapp . 
+- docker run -d -p 8080:80 --name webapp-container my-docker-webapp 
+- docker ps
+- docker stop webapp-container
+- docker rm webapp-container
+- docker rmi my-docker-webapp
+
+try to run on localhost
