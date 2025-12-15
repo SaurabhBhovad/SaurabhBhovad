@@ -1,7 +1,7 @@
 # Hi, I'm Saurabh Bhovad 👋
 
 ## 🚀 About Me
-Motivated entry-level **Data Science professional** with expertise in **Python, SQL, statistics, and machine learning**. Currently pursuing **MCA at Mumbai University** (2024-Present) with a focus on Data Analytics, Artificial Intelligence, and Machine Learning. Skilled in data cleaning, analysis, and visualization using tools like Pandas, NumPy, and Power BI. Passionate about building data-driven solutions and supporting business decisions while continuously growing technical and analytical skills.
+Motivated entry-level **Data Science professional** with expertise in **Python, SQL, statistics,machine learning, and Full Stack Developer**. Currently pursuing **MCA at Mumbai University** (2024-Present) with a focus on Data Analytics, Artificial Intelligence, and Machine Learning. Skilled in data cleaning, analysis, and visualization using tools like Pandas, NumPy, and Power BI. Passionate about building data-driven solutions and supporting business decisions while continuously growing technical and analytical skills.
 
 ## 💻 Tech Stack
 
