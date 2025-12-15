@@ -1,7 +1,7 @@
 # Hi, I'm Saurabh Bhovad 👋
 
 ## 🚀 About Me
-I'm an **MCA student** from Mumbai, passionate about **Data Science** and **Artificial Intelligence/Machine Learning**. Currently in my 2nd year at Mumbai University, I'm building practical skills through hands-on projects and continuously learning new technologies in the AI/ML domain.
+I'm an **MCA student** from NMITD Dadar Mumbai, passionate about **Data Science** and **Artificial Intelligence/Machine Learning**. Currently in my 2nd year at Mumbai University, I'm building practical skills through hands-on projects and continuously learning new technologies in the AI/ML domain.
 
 ## 💻 Tech Stack
 
