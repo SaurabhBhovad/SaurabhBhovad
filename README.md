@@ -1,43 +1,64 @@
 # Hi, I'm Saurabh Bhovad 👋
 
 ## 🚀 About Me
-I'm an **MCA student** from NMITD Dadar Mumbai, passionate about **Data Science** and **Artificial Intelligence/Machine Learning**. Currently in my 2nd year at Mumbai University, I'm building practical skills through hands-on projects and continuously learning new technologies in the AI/ML domain.
+Motivated entry-level **Data Science professional** with expertise in **Python, SQL, statistics, and machine learning**. Currently pursuing **MCA at Mumbai University** (2024-Present) with a focus on Data Analytics, Artificial Intelligence, and Machine Learning. Skilled in data cleaning, analysis, and visualization using tools like Pandas, NumPy, and Power BI. Passionate about building data-driven solutions and supporting business decisions while continuously growing technical and analytical skills.
 
 ## 💻 Tech Stack
 
-### Languages
+### Programming Languages
 - Python
+- Java
 - SQL
+- JavaScript
 
-### Data Science & ML
+### AI/ML Frameworks & Libraries
+- TensorFlow, PyTorch
+- Scikit-learn, Keras
 - Pandas, NumPy
-- Scikit-learn
-- Data Analysis & Visualization
-- Machine Learning Algorithms
-- Basic Deep Learning
 
-### Databases
-- SQL (MySQL, PostgreSQL)
-- NoSQL (Learning)
+### Data Analytics & Visualization
+- Data Visualization, Statistical Analysis
+- Predictive Modeling, Data Mining
+- Tableau, Power BI, Excel
 
 ### Tools & Technologies
-- Git & GitHub
-- Jupyter Notebook
-- Data Visualization (Matplotlib, Seaborn)
+- Git, Jupyter Notebook
+- Figma
 
-## 🎯 Current Focus
-- Building AI/ML projects for my portfolio
-- Exploring Deep Learning and Neural Networks
-- Strengthening Data Analysis skills
-- Learning Big Data technologies
+### Database Systems
+- MySQL, PostgreSQL
+- MongoDB, Firebase
 
-## 🔗 Connect with Me
-- 📧 Email: [Your Email]
-- 💼 LinkedIn: [Your LinkedIn Profile]
-- 📍 Location: Mumbai, India
+### Core Competencies
+- Machine Learning & Deep Learning
+- Natural Language Processing (NLP)
+- Data Structures & Algorithms
 
 ## 📊 Featured Projects
-Check out my pinned repositories below to see what I'm working on!
+
+### Jarvis - AI Assistant
+**Technologies:** Python, Speech Recognition, NLP, APIs (2024)
+- Built intelligent voice-activated AI assistant capable of performing tasks like web searches, playing music, and automation
+- Integrated natural language processing for voice command interpretation and text-to-speech synthesis
+- Implemented modular architecture enabling easy addition of new features and API integrations
+
+### Yoga Daily
+**Technologies:** React, JavaScript, CSS, REST APIs (2023)
+- Created interactive web application providing daily yoga routines and pose demonstrations
+- Utilized React hooks and component lifecycle methods for dynamic state management
+- Designed intuitive user interface with smooth animations and responsive design for cross-device compatibility
+
+## 🎯 Certifications
+- **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate** - Oracle AI Concepts & Techniques
+- **Data Analyst** - NPTEL
+
+## 🔗 Connect with Me
+- 📧 Email: bhovadsaurabh@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/saurabh-bhovad](https://linkedin.com/in/saurabh-bhovad)
+- 📍 Location: Mumbai, Maharashtra, India
+
+## 🎯 Career Objective
+Interested in building data-driven solutions and supporting business decisions while growing technical and analytical skills in a collaborative environment.
 
 ---
-💡 *Open to internship opportunities in Data Science and AI/ML*
+💡 *Open to internship and entry-level opportunities in Data Science, AI/ML, and Analytics*
