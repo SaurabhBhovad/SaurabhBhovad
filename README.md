@@ -37,13 +37,13 @@ Motivated entry-level **Data Science professional** with expertise in **Python, 
 ## 📊 Featured Projects
 
 ### Jarvis - AI Assistant
-**Technologies:** Python, Speech Recognition, NLP, APIs (2024)
+**Technologies:** Python, Speech Recognition, NLP
 - Built intelligent voice-activated AI assistant capable of performing tasks like web searches, playing music, and automation
 - Integrated natural language processing for voice command interpretation and text-to-speech synthesis
 - Implemented modular architecture enabling easy addition of new features and API integrations
 
 ### Yoga Daily
-**Technologies:** React, JavaScript, CSS, REST APIs (2023)
+**Technologies:** React, JavaScript, CSS, REST API
 - Created interactive web application providing daily yoga routines and pose demonstrations
 - Utilized React hooks and component lifecycle methods for dynamic state management
 - Designed intuitive user interface with smooth animations and responsive design for cross-device compatibility
