@@ -34,10 +34,6 @@ Motivated **aspiring Data Science professional** with expertise in **Python, SQL
 - Natural Language Processing (NLP)
 - Data Structures & Algorithms
 
-## 🎯 Certifications
-- **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate** - Oracle AI Concepts & Techniques
-- **Data Analyst** - NPTEL
-
 ## 🔗 Connect with Me
 - 📧 Email: bhovadsaurabh@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/saurabh-bhovad](https://linkedin.com/in/saurabh-bhovad)
